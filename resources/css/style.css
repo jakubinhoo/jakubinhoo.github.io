@@ -1,0 +1,35 @@
+* {
+    font-family: Verdana;
+}
+
+
+
+header {
+    font-weight: bold;
+    background: rgb(54, 49, 148);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgb(18, 18, 27) 35%, rgb(26, 6, 83) 100%);
+    text-align: left;
+}
+
+#big_name {
+    color: white;
+    opacity: 0.7;
+}
+p, 
+li {
+    font-size: 18px;
+}
+
+.description {
+    color: white;
+    opacity: 0.9;
+    font-size: 20px;
+    font-style: italic;
+}
+
+body {
+    background-image: url("https://www.teahub.io/photos/full/50-501503_samoa-win-world-rugby-u20-rugby-tournament-newsday..jpg");
+
+    background-repeat: no-repeat;
+    background-size: cover;
+}
